@@ -7,7 +7,7 @@
  "SHOW_OVERLAY": false,
  "AUTO_REARM": true,
  "REARM_DELAY": 2.0,
- "AUTO_MOVE": true,
+ "AUTO_MOVE": false,
  "ZONE_ONLY": true,
  "FOCUS": [],
  "FARM_SPOT": []

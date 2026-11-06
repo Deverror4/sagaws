@@ -225,7 +225,7 @@ def build_block(sources, levels, souls, who, here=None):
         else:
             lines.append("keys%d=tcm %% %s|%scall %% fRotation|dbg %% [PET] Fighting the closest needed monster|gt*" % (
                 n, "%s,%d" % (names, PET_RANGE) if PET_RANGE else names, "call %% fPetSave|" if LEARN_ROUTE else ""))
-    if AUTO_MOVE and monsters:
+    if monsters:
         # Nothing in attack range: give the looter a moment, then walk to the closest needed monster.
         # The next pass of Pet Farm attacks it once it is in range.
         # The on-screen text says which it is: still walking/looking, or nothing needed loaded here.
@@ -235,13 +235,16 @@ def build_block(sources, levels, souls, who, here=None):
         # Nothing left to fight here: pick up what is nearby before walking on (Numpad 5 turns this off).
         n += 1
         lines.append("keys%d=eq %% autoloot_phase,active|itl|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|s200|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|s200|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|s200|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|dbg %% [LOOT] Picking up nearby loot" % n)
-        n += 1
         walk = "esp %% edit,30,1,PET FARM: WALKING TO A NEEDED MONSTER|mtt%d|dbg %% [MOVE] Walking to the closest needed monster|gt*" % MOVE_CLOSE
         if spot:
-            lines.append("keys%d=tcm %% %s,%d|%s|%s" % (n, names, MOVE_RANGE, inside, walk))
+            if AUTO_MOVE:
+                n += 1
+                lines.append("keys%d=tcm %% %s,%d|%s|%s" % (n, names, MOVE_RANGE, inside, walk))
             lines.append("keys%d=esp %% edit,30,1,PET FARM: NO NEEDED MONSTER IN YOUR AREA|s500" % (n + 1))
         else:
-            lines.append("keys%d=tcm %% %s,%d|%s" % (n, names, MOVE_RANGE, walk))
+            if AUTO_MOVE:
+                n += 1
+                lines.append("keys%d=tcm %% %s,%d|%s" % (n, names, MOVE_RANGE, walk))
             # Nothing around: go back through the places monsters were fought. No saved places yet = just wait.
             if LEARN_ROUTE:
                 n += 1

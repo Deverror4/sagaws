@@ -28,10 +28,11 @@ Worlds in use: 1110 Altgard, 1010 Verteron, 20 Lower Reshanta, 22 Middle Reshant
 
 ## Working
 
-Fighting, looting, targeting the closest needed monster within 6,000, walking to one within 20,000, and fight-back with `ibtM2000|tcmT2000`.
+Fighting, looting, and fight-back with `ibtM2000|tcmT2000`. Walking to monsters (`mtt`) is switched off with `AUTO_MOVE = False`, because it has no time limit and Numpad 8 could not stop it. With it off, Numpad 8 turns off again.
 
 ## Not working
 
+0. **Attacking:** after `mtt` was switched off, Pet Farm no longer attacks needed monsters, only things that attack first. `keys3=tcm % names,6000|call % fRotation` is unchanged.
 1. **Walking:** `mt` goes in a straight line, hits terrain, and stops after a few metres.
 2. **Sliding:** the character slides. It began when the `mt` saved-place route was added, so that route is off (`LEARN_ROUTE = False`). Not yet confirmed as the cause.
 3. **Far monsters:** monsters that are not loaded cannot be seen by `tcm`.
