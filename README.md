@@ -43,7 +43,7 @@ Fighting, looting, targeting the closest needed monster within 6,000, walking to
 
 Use Speeder's waymark system instead of `mt`:
 
-- Pet Farm records itself: `cc % -record 500,30` on start, `cc % -record` on stop. This is not yet confirmed to work in the game.
+- Recording: `cc % -record 500,30` on start and `cc % -record` on stop was tried in `[104]`. Numpad 8 then would not turn off and attacks stopped, so it was removed. Routes still have to be recorded some other way.
 - `-tw*`/`-twrepeat*` or `lwf` replay a route; `,?` resumes at the closest waymark.
 - `wmark` pauses and resumes; `wmark?` sets `WMS` (3 moving, 2 active and not moving, 1 exiting, 0 stopped).
 - `[unstick]` and `[death]` sections handle stuck and dead.
@@ -68,4 +68,4 @@ The waymark file format is not known yet because the guide is members-only. The 
 
 - Do not edit inside the `PET SYNC` markers by hand. `pet_sync.py` regenerates that block, so change the generator.
 - `config.txt` uses CRLF and fixed line numbers. `chant2.ini` uses LF.
-- Things that broke the bot before: a `get % mobs` scan loop, coordinates on `tcm %`, the `ua` check for fight-back, and an `itm` guard that slowed attacks.
+- Things that broke the bot before: a `get % mobs` scan loop, coordinates on `tcm %`, the `ua` check for fight-back, and an `itm` guard that slowed attacks, and `cc % -record` in `[104]`.
