@@ -40,6 +40,10 @@ Fighting, looting, and fight-back with `ibtM2000|tcmT2000`. Walking to monsters 
 5. **Game auto-path:** `ap x,y,z` mostly did not start, including with a manual map right-click.
 6. **Teleport/kisk use:** not built. The test on F4 has not been run. `config.txt` line 32 lists Siege, Alliance, Group, Personal and Legion Kisk. The menu after interacting is unknown.
 
+## Numpad 8 lock-ups
+
+Numpad 8 stops responding when something in the Pet Farm loop never returns. Seen with `mtt` and with `tcm ...,20000|call % fRotation` on far targets (the 20,000 version did get kills). At 6,000 it turns off. Current far-target handling is one short attack-key tap with `gt*`, relying on the game's Pursue Targets setting. Untested.
+
 ## Plan
 
 Use Speeder's waymark system instead of `mt`. Each stage has to pass in the game before the next starts.

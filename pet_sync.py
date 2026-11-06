@@ -238,15 +238,18 @@ def build_block(sources, levels, souls, who, here=None):
         n += 1
         lines.append("keys%d=eq %% autoloot_phase,active|itl|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|s200|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|s200|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|s200|(VAR %% Key_Loot_VK)d|rs120,150|(VAR %% Key_Loot_VK)u|dbg %% [LOOT] Picking up nearby loot" % n)
         walk = "esp %% edit,30,1,PET FARM: WALKING TO A NEEDED MONSTER|mtt%d|dbg %% [MOVE] Walking to the closest needed monster|gt*" % MOVE_CLOSE
+        # Walking off: one short attack-key tap on a far target, so the game's Pursue Targets setting runs there.
+        # The tap always ends, so Numpad 8 is checked again on the next pass.
+        tap = ("esp % edit,30,1,PET FARM: RUNNING TO A NEEDED MONSTER|(VAR % Key_Onslaught_Hold_VK)d|rs120,150|(VAR % Key_Onslaught_Hold_VK)u|s700|"
+               "dbg % [MOVE] Tapped attack toward a far needed monster|gt*")
         if spot:
             if AUTO_MOVE:
                 n += 1
                 lines.append("keys%d=tcm %% %s,%d|%s|%s" % (n, names, MOVE_RANGE, inside, walk))
             lines.append("keys%d=esp %% edit,30,1,PET FARM: NO NEEDED MONSTER IN YOUR AREA|s500" % (n + 1))
         else:
-            if AUTO_MOVE:
-                n += 1
-                lines.append("keys%d=tcm %% %s,%d|%s" % (n, names, MOVE_RANGE, walk))
+            n += 1
+            lines.append("keys%d=tcm %% %s,%d|%s" % (n, names, MOVE_RANGE, walk if AUTO_MOVE else tap))
             # Nothing around: go back through the places monsters were fought. No saved places yet = just wait.
             if LEARN_ROUTE:
                 n += 1
