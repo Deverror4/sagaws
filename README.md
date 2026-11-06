@@ -42,16 +42,23 @@ Fighting, looting, and fight-back with `ibtM2000|tcmT2000`. Walking to monsters 
 
 ## Plan
 
-Use Speeder's waymark system instead of `mt`:
+Use Speeder's waymark system instead of `mt`. Each stage has to pass in the game before the next starts.
 
-- Recording: `cc % -record 500,30` on start and `cc % -record` on stop was tried in `[104]`. Numpad 8 then would not turn off and attacks stopped, so it was removed. Routes still have to be recorded some other way.
-- `-tw*`/`-twrepeat*` or `lwf` replay a route; `,?` resumes at the closest waymark.
-- `wmark` pauses and resumes; `wmark?` sets `WMS` (3 moving, 2 active and not moving, 1 exiting, 0 stopped).
-- `[unstick]` and `[death]` sections handle stuck and dead.
-- One watcher pauses the route, fights and loots until clear, then resumes. Only one thing moves the character at a time.
-- `tcg` plus the interact key makes the game run to a gathering object with its own pathing. Whether this works on monsters is untested, and it could replace `mtt`.
+**Stage 1, built, untested:** F12 `[123]` records a route (`cc % -record 500,30`, then `cc % -record`). The app moves the file to `routes/` and copies the newest to `route_active.ini`. Config line 24 is F9, the movement pause key.
 
-The waymark file format is not known yet because the guide is members-only. The first recorded file in `routes/` will show it.
+**Stage 2, built, untested:** F11 `[122]` plays it with `cc % -twrepeat* route_active.ini,?`. F11 again pauses with `wmark` and waits up to about 4 seconds for `WMS` 0.
+
+**Stage 3, not built:** Pet Farm pauses the route before a fight and restarts it with `,?` after looting. Must only pause when `WMS` is 2 or more, must wait with a limit, and must not rewrite `chant2.ini` during a route, because a reload kills the macro while waymarks may keep walking.
+
+**Stage 4, not built:** the app writes route files itself once the format is known, then area switching and kisk travel.
+
+Rules: Numpad 8 stays the master switch, one thing moves the character at a time, and no unbounded waits or recording in `[104]`.
+
+- `wmark?` sets `WMS`: 3 moving, 2 active and not moving, 1 exiting, 0 stopped.
+- `[unstick]` and `[death]` sections handle stuck and dead. `[death]` example: `keys=lwf % resurrect.ini`.
+- `tcg` plus the interact key makes the game run to a gathering object with its own pathing. Whether this works on monsters is untested.
+
+The waymark file format is not known yet because the guide is members-only. The first recorded file will show it. Questlog files have no live position.
 
 ## Speeder script notes
 

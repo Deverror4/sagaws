@@ -14,6 +14,7 @@ import json
 import math
 import os
 import re
+import shutil
 import sys
 import time
 from datetime import datetime
@@ -26,6 +27,7 @@ CHARACTERS = os.path.join(QL_DIR, "characters.json")
 TRACKER = os.path.join(QL_DIR, "map-tracker.json")
 LOG = os.path.join(HERE, "pet_sync.log")
 ROUTES = os.path.join(HERE, "routes")
+ACTIVE_ROUTE = os.path.join(HERE, "route_active.ini")  # the file F11 plays
 
 # Leave empty to follow whichever character Questlog saw last (pets are shared per server).
 # Or pin one, e.g. "2301:YourName".
@@ -311,7 +313,8 @@ def collect_routes():
         except OSError:
             continue
         moved.append(to)
-        log("Route recorded: %s" % os.path.basename(to))
+        shutil.copy2(to, ACTIVE_ROUTE)
+        log("Route recorded and set active: %s" % os.path.basename(to))
     return moved
 
 

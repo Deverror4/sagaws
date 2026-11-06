@@ -21,7 +21,7 @@ chant1.ini|chant2.ini
 
 
 1000
-
+120
 
 
 
