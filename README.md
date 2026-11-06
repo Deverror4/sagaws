@@ -42,7 +42,9 @@ Fighting, looting, and fight-back with `ibtM2000|tcmT2000`. Walking to monsters 
 
 ## Numpad 8 lock-ups
 
-Numpad 8 stops responding when something in the Pet Farm loop never returns. Seen with `mtt` and with `tcm ...,20000|call % fRotation` on far targets (the 20,000 version did get kills). At 6,000 it turns off. Current far-target handling is one short attack-key tap with `gt*`, relying on the game's Pursue Targets setting. Untested.
+Numpad 8 sometimes will not turn Pet Farm off. Cause unknown. It still happens with `mtt` removed and the range back at 6,000, during active fights, so `fRotation` (encrypted) is the main suspect. Numpad 0 `[96]` stops it from outside the loop with `to104,0`. Far targets get one short attack-key tap with `gt*`, relying on the game's Pursue Targets setting.
+
+Random dodges came from config line 84 starting with `1` (always on). It is now `0`.
 
 ## Plan
 

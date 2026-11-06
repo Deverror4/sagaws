@@ -81,4 +81,4 @@ Guide Turret|Contaminated Swarm Egg|Baby Cave Spider|Shugo Vigilante Group|Quai 
 
 0
 
-1|50|160|0|0|500|0
+0|50|160|0|0|500|0
