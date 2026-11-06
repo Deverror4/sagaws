@@ -301,7 +301,8 @@ def collect_routes():
     Never touches chant1/chant2, empty files, or a file still being written."""
     os.makedirs(ROUTES, exist_ok=True)
     moved = []
-    for f in os.listdir(HERE):
+    # Oldest first, so the newest recording ends up as the active route.
+    for f in sorted(os.listdir(HERE), key=lambda n: os.path.getmtime(os.path.join(HERE, n))):
         path = os.path.join(HERE, f)
         if (not re.fullmatch(r"[A-Za-z0-9]{6,16}\.ini", f) or f.lower() in ("chant1.ini", "chant2.ini")
                 or not os.path.isfile(path) or os.path.getsize(path) == 0
