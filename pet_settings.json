@@ -1,0 +1,14 @@
+{
+ "PET_RANGE": 6000,
+ "LOOT_AFTER_KILLS": true,
+ "LOOT_PRESSES": 2,
+ "LOOT_DELAY": 0.2,
+ "LOOT_GAP": 0.15,
+ "SHOW_OVERLAY": false,
+ "AUTO_REARM": true,
+ "REARM_DELAY": 2.0,
+ "AUTO_MOVE": true,
+ "ZONE_ONLY": true,
+ "FOCUS": [],
+ "FARM_SPOT": []
+}

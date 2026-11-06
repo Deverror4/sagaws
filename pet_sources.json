@@ -1,0 +1,2074 @@
+{
+ "1002": {
+  "name": "Krall Laborer",
+  "monsters": [
+   "Krall Armed Soldier",
+   "Krall Sentinel",
+   "Mutated Krall Laborer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1003": {
+  "name": "Forest Specter",
+  "monsters": [
+   "Canyon Vine Spirit",
+   "Tainted Vine Specter"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1004": {
+  "name": "Fossa",
+  "monsters": [
+   "Patrolling Fossa",
+   "Daeva Renegade Fossa",
+   "Tamed Beast"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1005": {
+  "name": "Klaw",
+  "monsters": [
+   "Wandering Klaw",
+   "Abyss Klaw Mutant",
+   "Abyss Mutated Klaw"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1006": {
+  "name": "Sparkie",
+  "monsters": [
+   "Wild Sparkie",
+   "Meadow Sparkie",
+   "Highland Odyle Sparkie",
+   "Aullaeu Forest Sparkie",
+   "Highland Sparkie"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1007": {
+  "name": "Potcrab",
+  "monsters": [
+   "Marsh Moss Potcrab",
+   "Flat Potcrab",
+   "Eternal Moss Crab",
+   "Moss Crab",
+   "Coastal Moss Crab"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1008": {
+  "name": "Baby Odyle Spider",
+  "monsters": [
+   "Coastal Odyle Spider"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1010": {
+  "name": "Manduri Fighter",
+  "monsters": [
+   "Crimson Manduri Fighter",
+   "Black Claw Manduri Combatant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1011": {
+  "name": "Skyray",
+  "monsters": [
+   "Small Forest Skyray",
+   "Ellun River Falls Skyray",
+   "Tolbas Forest Lake Skyray",
+   "Ridge Skyray",
+   "Canyon Skyray",
+   "Canyon Lake Skyray",
+   "Pond Skyray",
+   "Ellun River Lake Skyray",
+   "Cantas Valley Skyray",
+   "Lake Skyray",
+   "Tranein Skyray"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1012": {
+  "name": "Fungie",
+  "monsters": [
+   "Red Cap Fungie"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1013": {
+  "name": "Swarm",
+  "monsters": [
+   "Contaminated Swarm",
+   "Giant Ore Insectoid",
+   "Abyss Swarm",
+   "Abyss Aberrant Swarn",
+   "Abyss Swarm Mutant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1014": {
+  "name": "Drakan Guard Dog",
+  "monsters": [
+   "Drakan Guard Dog",
+   "Nahid Drakan Guard Dog",
+   "Drakan Patrol Armed Beast",
+   "Lagta Brigade Guard Dog",
+   "Abyss Drakan Scout Beast"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1015": {
+  "name": "Kailin",
+  "monsters": [
+   "Ellun River Kailin",
+   "Unstable Kailin",
+   "Kailin"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1016": {
+  "name": "Slink",
+  "monsters": [
+   "Tolbas Slink",
+   "Wetland Slink",
+   "Eternal Slink",
+   "Coastal Slink",
+   "Slink",
+   "Abyss Slink"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1017": {
+  "name": "Krall Warshaman",
+  "monsters": [
+   "Krall Warshaman",
+   "Modified Krall Healer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1018": {
+  "name": "Varg Berserker",
+  "monsters": [
+   "Varg Berserker",
+   "Chief's Bodyguard"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1022": {
+  "name": "Crasaur",
+  "monsters": [
+   "Aquascale Crasaur",
+   "Docile Crasaur",
+   "Eternal Crasaur",
+   "Sensitive Crasaur",
+   "Crasaur"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1025": {
+  "name": "Mutated Aberrant Odyle Spider",
+  "monsters": [
+   "Marsh Odyle Spider",
+   "Garden Spider",
+   "Highland Odyle Spider",
+   "Unstable Ashen Spider"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1026": {
+  "name": "Krall Warrior",
+  "monsters": [
+   "Krall Assault Trooper",
+   "Modified Krall Warrior",
+   "Krall Test Subject"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1027": {
+  "name": "Withered Agrint",
+  "monsters": [
+   "Withered Canyon Agrint",
+   "Thin Agrint",
+   "Withered Sulfur Agrint"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1029": {
+  "name": "Klaw Scout",
+  "monsters": [
+   "Consumed Klaw",
+   "Abyss Klaw",
+   "Abyss Aberrant Klaw"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1030": {
+  "name": "Nagarant Guardian Warrior",
+  "monsters": [
+   "Abyss Nagarant Brawler",
+   "Abyss Nagarant Warrior"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1031": {
+  "name": "Konutin Worker",
+  "monsters": [
+   "Tolbas Konutin Worker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1033": {
+  "name": "Elite Manduri Fighter",
+  "monsters": [
+   "Wandering Manduri Fighter",
+   "Black Claw Manduri Fighter"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1034": {
+  "name": "Giant Sparkie",
+  "monsters": [
+   "Splendent Hill Sparkie",
+   "Highland Giant Odyle Sparkie",
+   "Aullaeu Forest Giant Sparkie",
+   "Highland Giant Sparkie",
+   "Withered Branch Odyle Sparkie",
+   "Fafnite Luminous Sparkie"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1035": {
+  "name": "Skama",
+  "monsters": [
+   "Foul Skama",
+   "Lake Skama",
+   "Drana Mutated Skama"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1036": {
+  "name": "Lupyllini",
+  "monsters": [
+   "Tail Feather Lupyllini"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1037": {
+  "name": "Male Crestlich",
+  "monsters": [
+   "Ellun River Crestlich Male",
+   "Highland Crestlich Male"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1038": {
+  "name": "Airon",
+  "monsters": [
+   "Smallbeak Airon",
+   "Pointbeak Airon",
+   "Hardbeak Airon",
+   "Longbeak Highland Airon",
+   "Canyon Airon",
+   "Baby Canyon Airon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1039": {
+  "name": "Crestlich",
+  "monsters": [
+   "Stonebeak Crestlich",
+   "Ellun River Crestlich Female",
+   "Highland Crestlich Female"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1040": {
+  "name": "Aullaeu Shaman",
+  "monsters": [
+   "Aullaeu Apprentice Shaman"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1041": {
+  "name": "Cave Bat",
+  "monsters": [
+   "Drana Mutated Bat"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1042": {
+  "name": "Ursus",
+  "monsters": [
+   "Hardhorn Ursus",
+   "Ridge Ursus",
+   "Ridge Violent Ursus",
+   "Confused Ursus",
+   "Hill Ursus",
+   "Ursus"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1045": {
+  "name": "Sylphen",
+  "monsters": [
+   "Highland Sylphen",
+   "Ellun River Sylphen",
+   "Aberrant Sylphen",
+   "Ridge Sylphen",
+   "Sylphen"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1046": {
+  "name": "Armadon",
+  "monsters": [
+   "Red Shell Mole",
+   "Withered Armadon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1047": {
+  "name": "Aberrant Armadon",
+  "monsters": [
+   "Splendent Armadon",
+   "Highland Wild Armadon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1048": {
+  "name": "Forest Spirit",
+  "monsters": [
+   "Marsh Vine Spirit",
+   "Contaminated Vine Spirit",
+   "Ridge Forest Spirit",
+   "Deep Canyon Forest Spirit",
+   "Forest Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1049": {
+  "name": "Mutated Forest Spirit",
+  "monsters": [
+   "Mutated Vine Bundle",
+   "Contaminated Vine Bundle",
+   "Condensed Specter"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1050": {
+  "name": "Gravi",
+  "monsters": [
+   "Red Stalk Gravi",
+   "Tolbas Gravi",
+   "Pink Gravi"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1051": {
+  "name": "Magic Gravi",
+  "monsters": [
+   "Illusion Magic Gravi",
+   "Tolbas Magic Gravi",
+   "Purifying Forest Magic Gravi",
+   "Unstable Gravi"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1052": {
+  "name": "Large Leaf Gravi",
+  "monsters": [
+   "Ellun River Hill Gravi",
+   "Large Leaf Gravi"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1053": {
+  "name": "Aberrant Potcrab",
+  "monsters": [
+   "Drana Mutated Potcrab",
+   "Eternal Moss Crab"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1054": {
+  "name": "Mumu Warrior",
+  "monsters": [
+   "Mumu Watcher",
+   "Gribade Mumu Warrior"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1056": {
+  "name": "Drakan Probe",
+  "monsters": [
+   "Drana Processing Maintenance Machine",
+   "Intruder Seeker",
+   "Outpost Probe",
+   "Drakan Probe",
+   "Lagta Brigade Seeker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1058": {
+  "name": "Black Smoke Murute",
+  "monsters": [
+   "Black Smoke Murute"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1059": {
+  "name": "Giant Bee",
+  "monsters": [
+   "Giant Stripe Bee"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1060": {
+  "name": "Starturtle",
+  "monsters": [
+   "Coastal Starturtle",
+   "Pond Starturtle",
+   "Eternal Starturtle",
+   "Beach Starturtle",
+   "Starturtle"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1061": {
+  "name": "Slime",
+  "monsters": [
+   "Unruly Slime"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1062": {
+  "name": "Contaminated Slime",
+  "monsters": [
+   "Marsh Slime",
+   "Contaminated Poison Slime",
+   "Abyss Sulfur Slime"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1063": {
+  "name": "Vigilant Oculazen",
+  "monsters": [
+   "Vigilant Oculazen"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1064": {
+  "name": "Oculazen",
+  "monsters": [
+   "Labor Manager Oculazen",
+   "Oculazen"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1065": {
+  "name": "Biruta",
+  "monsters": [
+   "Biruta Wanderer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1066": {
+  "name": "Papis",
+  "monsters": [
+   "Faded Papis",
+   "Gentle Papis",
+   "Ellun River Papis",
+   "Garden Papis"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1067": {
+  "name": "Scorpion",
+  "monsters": [
+   "Contaminated Scorpion",
+   "Ore Scorpion"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1069": {
+  "name": "Stone Spirit",
+  "monsters": [
+   "Hill Stone Spirit",
+   "Faded Stone Spirit",
+   "Abyss Rock Spirit",
+   "Twilight Odyle Stone Spirit",
+   "Temple Zaigolem"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1071": {
+  "name": "Cadaver Insectoid",
+  "monsters": [
+   "Drana Cadaver Insectoid"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1072": {
+  "name": "Tog",
+  "monsters": [
+   "Tog"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1073": {
+  "name": "Nepenthes",
+  "monsters": [
+   "Tolbas Nepenthes",
+   "Scarlet Highland Nepenthes",
+   "Abyss Nasty Nepenthes"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1074": {
+  "name": "Kuru Worker",
+  "monsters": [
+   "Tolbas Kuru Worker",
+   "Harsh Kuru Tinkerer",
+   "Eternal Kuru Worker",
+   "Kuru Worker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1075": {
+  "name": "Kuru Tinkerer",
+  "monsters": [
+   "Tolbas Kuru Tinkerer",
+   "Eternal Kuru Tinkerer",
+   "Kuru Tinkerer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1077": {
+  "name": "Harcon",
+  "monsters": [
+   "Enhanced Harcon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1083": {
+  "name": "Spider",
+  "monsters": [
+   "Abyss Odyle Mutated Insectoid"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1084": {
+  "name": "Kalgolem",
+  "monsters": [
+   "Hard Kalgolem",
+   "Ashen Kalgolem",
+   "Angry Kalgolem",
+   "Root Kalgolem",
+   "Abyss Kalgolem"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1086": {
+  "name": "Fungen",
+  "monsters": [
+   "Red Cap Fungen"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1087": {
+  "name": "Pino",
+  "monsters": [
+   "Pino Worker",
+   "Pino Laborer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1088": {
+  "name": "Pino Worker",
+  "monsters": [
+   "Harsh Pino Worker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1089": {
+  "name": "Aberrant Skama",
+  "monsters": [
+   "Yellow-Tailed Skama",
+   "Abyss Sulfur Skama"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1091": {
+  "name": "Red Spark Ignus",
+  "monsters": [
+   "Red Spark Ignus"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1092": {
+  "name": "Lesser Wind Spirit",
+  "monsters": [
+   "Air Spirit",
+   "Eternal Wind Spirit",
+   "Soft Breeze Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1093": {
+  "name": "Phantasmal Lakshmi",
+  "monsters": [
+   "Phantasmal Lakshmi"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1094": {
+  "name": "Intermediate Wind Spirit",
+  "monsters": [
+   "Wandering Wind Spirit",
+   "Violent Wind Spirit",
+   "Immortal Wind Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1095": {
+  "name": "Superior Wind Spirit",
+  "monsters": [
+   "Brisk Spirit",
+   "Whirlwind Spirit",
+   "Immortal Wind Spirit Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1096": {
+  "name": "Superior Fire Spirit",
+  "monsters": [
+   "Hellfire Spirit",
+   "Flame Spirit",
+   "Unstable Superior Fire Spirit",
+   "Immortal Fire Spirit Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1097": {
+  "name": "Karnif",
+  "monsters": [
+   "Ferocious Karnif",
+   "Tolbas Karnif",
+   "Ferocious Tolbas Karnif",
+   "Toughmane Highland Karnif",
+   "Highland Karnif",
+   "Tamed Karnif"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1098": {
+  "name": "Modified Karnif",
+  "monsters": [
+   "Scouting Karnif",
+   "Unruly Karnif",
+   "Trained Karnif",
+   "Sensitive Karnif",
+   "Abyss Karnif",
+   "Abyss Search Party Karnif"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1099": {
+  "name": "Elite Karnif",
+  "monsters": [
+   "Crimson Blizzard Renulf"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1101": {
+  "name": "Forest Guardian",
+  "monsters": [
+   "Garden Guardian",
+   "Enraged Forest Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1103": {
+  "name": "Pretor Veil Administrator",
+  "monsters": [
+   "Gluttonous Egetis"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1104": {
+  "name": "Manduri Trebuchet Worker",
+  "monsters": [
+   "Hill Manduri",
+   "Crimson Manduri Slinger",
+   "Black Claw Manduri Scout"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1105": {
+  "name": "Biruta Herbalist",
+  "monsters": [
+   "Biruta Herbalist"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1106": {
+  "name": "Tayga",
+  "monsters": [
+   "Search Party Tayga",
+   "Guard Troopers Tayga",
+   "Tamed Tayga"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1108": {
+  "name": "Enhanced Krall Combatant",
+  "monsters": [
+   "Enhanced Krall Combatant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1109": {
+  "name": "Enhanced Krall Sentry",
+  "monsters": [
+   "Enhanced Krall Sentry"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1110": {
+  "name": "Blue Kalgolem",
+  "monsters": [
+   "Splendent Kalgolem",
+   "Blue Kalgolem",
+   "Abyssal Kalgolem",
+   "Abyss Blue Kalgolem"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1114": {
+  "name": "Ashen Spider",
+  "monsters": [
+   "White Shell Octaside",
+   "Ashen Spider"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1115": {
+  "name": "Kuru Overseer",
+  "monsters": [
+   "Eternal Kuru Overseer",
+   "Kuru Overseer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1116": {
+  "name": "Withered Branch Spider",
+  "monsters": [
+   "Withered Branch Spider"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1117": {
+  "name": "Unstable Spider",
+  "monsters": [
+   "Aullaeu Forest Odyle Spider",
+   "Crimson Spider",
+   "Flame Rock Spider",
+   "Unstable Poison Blood Spider",
+   "Abyss Red Mutated Insectoid"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1118": {
+  "name": "Aberrant Bee",
+  "monsters": [
+   "Black Armor Bee",
+   "Black Pattern Bee",
+   "Stripe Bee"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1119": {
+  "name": "Aberrant Coradon",
+  "monsters": [
+   "Aberrant Coradon",
+   "Garden Coradon",
+   "Hill Coradon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1120": {
+  "name": "Young Kailin",
+  "monsters": [
+   "Ellun River Young Kailin",
+   "Unstable Young Kailin",
+   "Young Kailin"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1121": {
+  "name": "Young Slink",
+  "monsters": [
+   "Young Wetland Slink",
+   "Tolbas Young Slink",
+   "Young Slink",
+   "Abyss Young Slink"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1123": {
+  "name": "Young Ursus",
+  "monsters": [
+   "Baby Horn Ursus",
+   "Hill Young Ursus",
+   "Young Ursus"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1124": {
+  "name": "Zaif",
+  "monsters": [
+   "Rock Hill Zaif",
+   "Highland Forest Zaif",
+   "Highland Zaif",
+   "Hill Zaif"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1125": {
+  "name": "Aberrant Zaif",
+  "monsters": [
+   "Yellow-Maned Zaif",
+   "Golden Zaif"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1126": {
+  "name": "Aberrant Tog",
+  "monsters": [
+   "Cairn Tog",
+   "Hungry Tog",
+   "Field Tog",
+   "Wild Stripe Tog",
+   "Hill Tog",
+   "Aberrant Tog"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1127": {
+  "name": "Odyle Stone Spirit",
+  "monsters": [
+   "Faded Odyle Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1128": {
+  "name": "Drana Slime",
+  "monsters": [
+   "Drana Slime"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1129": {
+  "name": "Drana Swarm",
+  "monsters": [
+   "Crimson Drana Swarm"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1130": {
+  "name": "Mutated Cadaver Insectoid",
+  "monsters": [
+   "Ridge Spider"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1131": {
+  "name": "Drana Spore",
+  "monsters": [
+   "Crimson Mutated Spore"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1134": {
+  "name": "Eternal Coradon",
+  "monsters": [
+   "Eternal Coradon",
+   "Abyss Coradon",
+   "Abyss Eternal Coradon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1135": {
+  "name": "Ashen Dionae",
+  "monsters": [
+   "Ashen Dionae"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1136": {
+  "name": "Rafflesia",
+  "monsters": [
+   "Rafflesia",
+   "Crimson Rafflesia",
+   "Unstable Rafflesia"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1137": {
+  "name": "Mumu Worker",
+  "monsters": [
+   "Mumu Worker",
+   "Escaped Mumu Worker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1140": {
+  "name": "Forest Monster",
+  "monsters": [
+   "Tolbas Forest Targon",
+   "Burned Forester"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1141": {
+  "name": "Marsh Targon",
+  "monsters": [
+   "Marsh Targon",
+   "Abyss Marsh Targon"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1142": {
+  "name": "Distorted Mutant",
+  "monsters": [
+   "Consumed Spirit Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1143": {
+  "name": "Mutated Ursus",
+  "monsters": [
+   "Ashen Ursus"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1144": {
+  "name": "Mutated Forest Guardian",
+  "monsters": [
+   "Mutated Forest Guardian",
+   "Unstable Forest Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1147": {
+  "name": "Dratona",
+  "monsters": [
+   "Scarlet Forest Dratona",
+   "Dratona Tinkerer",
+   "Dratona Supporter",
+   "Dratona"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1148": {
+  "name": "Drakana Kalgolem",
+  "monsters": [
+   "Crash Site Kalgolem"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1153": {
+  "name": "Drana Mutant Brute",
+  "monsters": [
+   "Eternal Drana Mutant",
+   "Crimson Drana Mutant",
+   "Drana Mutant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1154": {
+  "name": "Faded Mutant Brute",
+  "monsters": [
+   "Faded Mutant Brute",
+   "Abyss Giant Mutant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1155": {
+  "name": "Superior Water Spirit",
+  "monsters": [
+   "Torrent Spirit",
+   "Water Mist Spirit",
+   "Unstable Superior Water Spirit",
+   "Immortal Water Spirit Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1156": {
+  "name": "Elite Klaw",
+  "monsters": [
+   "Bodyguard Teegant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1157": {
+  "name": "Cadaver Cleaner",
+  "monsters": [
+   "Ruins Corpse Cleaner",
+   "Ferocious Cadaver Cleaner",
+   "Temple Cadaver Cleaner"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1159": {
+  "name": "Parasite Swarm",
+  "monsters": [
+   "Giant Ore Insectoid Adult"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1161": {
+  "name": "Faded Floater",
+  "monsters": [
+   "Faded Floater"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1162": {
+  "name": "Kerubar",
+  "monsters": [
+   "Eternal Kerubar",
+   "Kerubar"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1163": {
+  "name": "Basilisk",
+  "monsters": [
+   "Black Ash Basilisk"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1164": {
+  "name": "Lesser Earth Spirit",
+  "monsters": [
+   "Eternal Earth Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1165": {
+  "name": "Intermediate Earth Spirit",
+  "monsters": [
+   "Wandering Earth Spirit",
+   "Violent Earth Spirit",
+   "Immortal Earth Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1166": {
+  "name": "Superior Earth Spirit",
+  "monsters": [
+   "Peculiar Rock Spirit",
+   "Corroded Soil Spirit",
+   "Immortal Earth Spirit Guardian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1168": {
+  "name": "Lesser Water Spirit",
+  "monsters": [
+   "Water Spirit",
+   "Eternal Water Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1169": {
+  "name": "Intermediate Water Spirit",
+  "monsters": [
+   "Wandering Water Spirit",
+   "Violent Water Spirit",
+   "Unstable Intermediate Water Spirit",
+   "Immortal Water Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1170": {
+  "name": "Kerubian",
+  "monsters": [
+   "Eternal Kerubian",
+   "Kerubian"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1171": {
+  "name": "Kerubiel",
+  "monsters": [
+   "Eternal Kerubiel",
+   "Kerubiel"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1172": {
+  "name": "Duduka Worker",
+  "monsters": [
+   "Duduka Worker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1173": {
+  "name": "Duduka Trebuchet Worker",
+  "monsters": [
+   "Duduka Slinger"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1174": {
+  "name": "Drana Predator",
+  "monsters": [
+   "Crimson Drana Predator",
+   "Drana Predator"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1175": {
+  "name": "Faded Predator",
+  "monsters": [
+   "Faded Predator"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1176": {
+  "name": "Mudthorn",
+  "monsters": [
+   "Addicted Mudthorn",
+   "Remnant of Subspace"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1178": {
+  "name": "Spirit King's Bodyguard Warrior",
+  "monsters": [
+   "Old Tree Spirit Warrior",
+   "Spirit King's Bodyguard Warrior"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1179": {
+  "name": "Drana Mutant",
+  "monsters": [
+   "Twisted Mutant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1180": {
+  "name": "Faded Mutant",
+  "monsters": [
+   "Faded Mutant",
+   "Abyss Drana Mutant"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1181": {
+  "name": "Brax",
+  "monsters": [
+   "Brax",
+   "Field Brax",
+   "Hungry Brax",
+   "Docile Highland Brax"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1183": {
+  "name": "Soulless Corpse Gnat",
+  "monsters": [
+   "Soulless Corpse Gnat"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1184": {
+  "name": "Drakan Watcher",
+  "monsters": [
+   "Processing Facility Drakan Scout",
+   "Drakan Manager",
+   "Drakan Patrol Watcher"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1186": {
+  "name": "Poison Blood",
+  "monsters": [
+   "Cursed Poison Blood",
+   "Unstable Poison Blood"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1187": {
+  "name": "Intermediate Fire Spirit",
+  "monsters": [
+   "Violent Fire Spirit",
+   "Unstable Intermediate Fire Spirit",
+   "Immortal Fire Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1188": {
+  "name": "Vivel",
+  "monsters": [
+   "Highland Vivel",
+   "Vampire Vivel"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1189": {
+  "name": "Tamed Zaif",
+  "monsters": [
+   "Marauders Zaif",
+   "Twilight Zaif",
+   "Tamed Zaif"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1192": {
+  "name": "Silver Blade Rotan",
+  "monsters": [
+   "Silver Blade Rotan",
+   "Abyss Rusty Rotan",
+   "Abyss Old Blade Rotan",
+   "Abyss Silver Blade Rotan"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1193": {
+  "name": "Addicted Shulak Cart Worker",
+  "monsters": [
+   "Rampaging Shulak Cart Worker"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1194": {
+  "name": "Guardite",
+  "monsters": [
+   "Uncontrollable Guardite"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1195": {
+  "name": "Dracuni Herbalist",
+  "monsters": [
+   "Dracuni Processing Laborer",
+   "Poison Blood Gatherer"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1196": {
+  "name": "Elite Dratona",
+  "monsters": [
+   "Predator Colossus Balakh"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1197": {
+  "name": "Watcher Guardite",
+  "monsters": [
+   "Contaminated Guardite"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1200": {
+  "name": "Naga Elite Priest",
+  "monsters": [
+   "Abyss Naga Dark Mage"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1201": {
+  "name": "Modified Lupyllini",
+  "monsters": [
+   "Lupyllini Test Subject",
+   "Eternal Lupyllini",
+   "Modified Lupyllini"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1202": {
+  "name": "Decomposed Lupyllini",
+  "monsters": [
+   "Contaminated Highland Lupyllini",
+   "Decomposed Lupyllini",
+   "Ferocious Lupyllini"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1203": {
+  "name": "Tamed Karnif",
+  "monsters": [
+   "Blades Karnif",
+   "Tamed Blades Beast"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1206": {
+  "name": "Elite Guardite",
+  "monsters": [
+   "Divine Ansas"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1207": {
+  "name": "Agrint",
+  "monsters": [
+   "Decaying Agrint",
+   "Old Agrint",
+   "Contaminated Agrint",
+   "Eternal Agrint",
+   "Mutated Elim",
+   "Ruin Agrint",
+   "Island Agrint",
+   "Sulfur Agrint",
+   "Root Agrint",
+   "Abyss Agrint"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1208": {
+  "name": "Ashen Agrint",
+  "monsters": [
+   "Unstable Agrint"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1209": {
+  "name": "Thin Agrint",
+  "monsters": [
+   "Crimson Agrint",
+   "Red Eye Agrint",
+   "Thin Sulfur Agrint"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1210": {
+  "name": "Dry Leaf Agrint",
+  "monsters": [
+   "Forest Agrint",
+   "Twilight Dry Leaf Agrint"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1213": {
+  "name": "Lesser Fire Spirit",
+  "monsters": [
+   "Eternal Fire Spirit",
+   "Burning Ember Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1214": {
+  "name": "Black Spirit",
+  "monsters": [
+   "Contaminated Spirit",
+   "Distorted Spirit",
+   "Black Spirit",
+   "Abyss Corrupted Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1215": {
+  "name": "Predator Saraswati",
+  "monsters": [
+   "Predator Saraswati"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1216": {
+  "name": "Dark Spirit",
+  "monsters": [
+   "Corrupted Spirit",
+   "Wandering Dark Spirit"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1217": {
+  "name": "Congealed Drana",
+  "monsters": [
+   "Congealed Drana"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1218": {
+  "name": "Faded Drana",
+  "monsters": [
+   "Faded Chunk"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ },
+ "1219": {
+  "name": "Zelophi",
+  "monsters": [
+   "Coastal Zelophi",
+   "Eternal Zelophi",
+   "Zelophi",
+   "Abyss Zelophi"
+  ],
+  "need": [
+   5,
+   25,
+   75
+  ]
+ }
+}

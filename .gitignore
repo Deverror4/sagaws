@@ -1,0 +1,10 @@
+# private
+config.txt
+chant1.ini
+chant2.ini
+*.log
+*.pid
+*.bak
+# junk
+__pycache__/
+Ce7mlwgrjM.ini
