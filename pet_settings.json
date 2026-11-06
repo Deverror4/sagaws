@@ -1,5 +1,5 @@
 {
- "PET_RANGE": 6000,
+ "PET_RANGE": 20000,
  "LOOT_AFTER_KILLS": true,
  "LOOT_PRESSES": 2,
  "LOOT_DELAY": 0.2,
